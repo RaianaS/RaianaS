@@ -40,21 +40,6 @@
  
 </div>
 
-<br/>
-<hr/>
-
-</div>
-<div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/raianas/raianas/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-
-<hr/>
-
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
 <div>
