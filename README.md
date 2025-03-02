@@ -4,10 +4,6 @@
 
 <h3 align="center">Desenvolvedora Front-End Júnior</h3>
 
-<div align="center">
-    🌱 Atualmente, estou aprendendo **JavaScript, Python**
-</div>
-
 <div align="center"> 
   <a href="mailto:Raianacristina0905@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -24,20 +20,8 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Linguagens-Ferramentas ⚒️</h2>
-<div align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
-</div>
-
 <h2 align="center">⚡ Estatísticas ⚡</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-   <a href="https://github.com/RaianaS">
-       <img height="150" src="https://github-readme-stats.vercel.app/api?username=RaianaS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   </a>
+
    <a href="https://github.com/RaianaS">
        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaianaS&layout=compact&langs_count=6&theme=tokyonight" />
    </a>
